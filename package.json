@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mammoth": "^1.13.0",
+    "unpdf": "^2.2.1"
+  }
+}
